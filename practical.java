@@ -1,6 +1,6 @@
 import java.io.*;
    
-class sumof{
+class practical{
    
     // Function to calculate the following series
     static double Series(int n)
